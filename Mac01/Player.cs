@@ -125,4 +125,9 @@ public class Player : MonoBehaviour
 			uiscript.Gameover();
         }
     }
+
+	void GetCollision()
+    {
+
+    }
 }
