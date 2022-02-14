@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
 	public float speed = 5.0f;
 	//横に進むスピード
 	public float slideSpeed = 2.0f;
+	public float maxSpeed = 2.0f;
 
 	//アニメーション
 	Animator animator;
